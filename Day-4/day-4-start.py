@@ -13,7 +13,7 @@ print(my_module.pi)
 
 love_score = random.randint(1, 100)
 print(f"Your love score is {love_score}!")
-"""
+
 city_of_turkey = ["Adana", "Adıyaman", "Afyonkarahisar", "Ağrı", "Aksaray", "Amasya",
                    "Ankara", "Antalya", "Ardahan", "Artvin", "Aydın", "Balıkesir",
                    "Bartın", "Batman", "Bayburt", "Bilecik", "Bingöl", "Bitlis",
@@ -35,3 +35,16 @@ city_of_turkey[2] = "Afyon"
 city_of_turkey.append("Marasel")
 
 print(city_of_turkey)
+"""
+# dirty_dozen = ["Strawberries", "Spinach", "Kale", "Nectarines", "Apples",
+# "Grapes", "Peaches", "Cherries", "Pears", "Tomatoes", "Celery",
+# "Potatoes"]
+
+fruits = ["Strawberries", "Nectarines", "Apples", "Grapes", "Peaches", "Cherries",
+          "Pears"]
+
+vegetables = ["Spinach", "Kale", "Tomatoes", "Celery", "Potatoes"]
+
+dirty_dozen = [fruits, vegetables]
+
+print(dirty_dozen)
