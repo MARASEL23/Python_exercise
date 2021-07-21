@@ -11,7 +11,7 @@ e.g.
 
 180 + 124 + 165 + 173 + 189 + 169 + 146 = 1146
 
-There are a total of 7 heights in student_heights
+There are a total of 7 height's in student_heights
 
 1146 ÷ 7 = 163.71428571428572
 
